@@ -1,0 +1,15 @@
+# Windows executables
+*.exe
+*.exe~
+
+# Architectures/Shared libraries
+*.dll
+*.so
+*.dylib
+
+# Test binaries and coverage outputs
+*.test
+*.out
+
+
+*.log
